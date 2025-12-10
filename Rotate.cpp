@@ -196,7 +196,7 @@ int main()
         cout << "ANY FOUR LETTERS CLOCKWISE ONE POSITION.  YOU SPECIFY THE" << endl;
         cout << "UPPER LEFT POSITION OF THE FOUR YOU WISH TO ROTATE, I.E.," << endl;
         cout << "VALID MOVES ARE 1, 2, 3, 5, 6, 7, 9, 10 AND 11." << endl;
-        cout << "CONSEQUENTLY, IF THE BOARD LOOKED LIKE:" << endl << "\n";
+        cout << "CONSEQUENTLY, IF THE BOARD LOOKЕД LIKE:" << endl << "\n";
 
         char letters[17];
         for (int i = 1; i <= 16; i++)
